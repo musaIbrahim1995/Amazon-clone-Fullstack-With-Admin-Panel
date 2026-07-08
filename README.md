@@ -1,6 +1,6 @@
 # amazon_clone_with_admin_panel
 
-A Flutter project.
+A Fullstack Project
 
 ## Outputs
 ![Screenshot_1704386944](https://github.com/musaIbrahim1995/Amazon-clone-Fullstack-With-Admin-Panel/assets/155387726/1f8ceb32-b196-4b78-9fcb-b5b374fe7a85)
